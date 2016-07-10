@@ -22,3 +22,9 @@ body {
 	padding-top: 15px;
 
 }
+#nav-list {
+	text-align: center;
+}
+#nav-list a:hover {
+  background: #E2E2E2;
+}
